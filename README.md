@@ -20,7 +20,10 @@ El siguiente código es la creación de la tabla.
  
 Luego vemos donde utilizamos la etiqueta iframe para nuestro video de youtube
  
-Ahora veremos donde utilizamos las listas ordenadas y desornedas.
+Ahora veremos donde utilizamos las listas ordenadas y desornedas. utilizando
+<ul>
+	<li>item</li>
+</ul>
  
  
 
@@ -28,64 +31,22 @@ Ahora veremos donde utilizamos las listas ordenadas y desornedas.
 Ahora veremos donde utlizamos las etiquetas de texto utilizamos em, i, q, b, cite.
  
  Para agregar imágenes se hizo de la siguiente manera
+ <img src="images/LogoUPS.png" alt="Universidad Politecnica Salesiana " width="595" height="170"/>
  
 El uso de id se hizo de la siguiente manera
+ 	<a href="instrumentos_cuerda.html#Cuerda">Click para ver Instrumentos de Cuerda &nbsp; </a>
+        <a href="instrumentos_percusion.html#Percusion">Click para ver Instrumentos de Percusion &nbsp; </a>
+        <a href="generos_musicales.html#Genero">Click para ver Géneros Musicales &nbsp; </a>
  
 La etiqueta footer fue creada de la siguiente manera según nos pedia en el enunciado usando mailto y call.
- 
+ 	<footer>
+                Luis René Panjón &#8226; Universidad Politécnica Salesiana &#8226; 
+                telefono: <a href="tel:+593967270947">(593) 967-270-947</a> &#8226;
+                Correo: <a href="mailto:lpanjon@est.ups.edu.ec">lpanjon@est.ups.edu.ec</a> &#8226;
+                &#169; Todos los derechos reservados
+            
+        </footer>
 
-	b. La evidencia de la correcta estructuración de las páginas HTML. Para lo cuál, se puede generar fotografías instantáneas (pantallazos). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	 
-	Aquí vemos que dentro de body tenemos nuestro header también tenemos nuestro nav y nuestro section y dentro de él está nuestra 
-	etiqueta article
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Aqui vemos como dentro de nuestro section tenemos a article y dos aside y finalmente fuera de section está la etiqueta 
-Footer.
-
-
-	c. La evidencia de la validación de cada página HTML. 
-	
-En el punto anterior están las imágenes de la validación de cada página en W3C validator
-
-
-	e. En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica) 
 	
 El usuario es LuisRenePanjon y la URL https://github.com/LuisRenePanjon/Practica01-Bloc.git
 
